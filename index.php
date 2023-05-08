@@ -21,7 +21,7 @@ return json_decode($res);
 }
 }
 
-$ne= mysqli_connect("localhost,ibookxyz_Zoom,Xx(1o278N-qIXk,ibookxyz_Zoom");
+$ne= mysqli_connect("localhost","root", "","myTestDatabase");
 mysqli_set_charset($ne,"utf8");
 
 $input=file_get_contents("php://input");
