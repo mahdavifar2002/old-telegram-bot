@@ -1,0 +1,21 @@
+﻿/*
+@datisnetwork
+https://t.me/datisnetwork
+*/
+
+
+لاین 8 = توکن ربات خودتون
+
+Line 24 = Database Info
+
+لاین 52= ایدی عددی ادمین
+
+لاین 62 و 63= ایدی کانال ( قفل)
+
+لاین 64= ایدی ادمین پشتیبان
+
+
+/*
+@datisnetwork
+https://t.me/datisnetwork
+*/
