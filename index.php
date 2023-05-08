@@ -5,7 +5,7 @@ https://t.me/datisnetwork
 */
 error_reporting(0);
 require 'jdf.php';
-$token='1033888272:AAGRZZeFgwuHyBQufbA2buYaTirimnfi0AU';
+$token='5847031605:AAH-L-DSIZSVr3NOuDnssDKDmJCujt1aCRo';
 define('API_KEY',$token);
 function Neman($method,$datas=[]){
 $url = "https://api.telegram.org/bot".API_KEY."/".$method;
